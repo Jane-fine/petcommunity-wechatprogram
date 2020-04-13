@@ -1,0 +1,2 @@
+# petcommunity-wechatprogram
+friendship power
